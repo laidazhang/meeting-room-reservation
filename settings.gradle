@@ -1,0 +1,4 @@
+rootProject.name = 'meeting-room-reservation'
+include 'user-service-interface'
+include 'user-service'
+
